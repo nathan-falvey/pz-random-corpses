@@ -15,6 +15,5 @@ To use this mod, extract the zip file to the '**mods**' your Project Zomboid dir
 Your newly created folder should be in the root of your '**mods**' folder. So it looks like
 
 ```bash
-    C:\Users\%username%\Zomboid\mods/Random Corpses
+    C:\Users\%username%\Zomboid\mods\Random Corpses
 ```
-(or whatever the foldername you extracted it to.)
